@@ -21,4 +21,4 @@ You can contribute to this plugin by retrieving the source and following the [of
 
 ## Legal
 
-This project is licensed under the terms of the [MIT license](LICENSE).
+This project is licensed under the terms of the [Apache License Version 2.0](LICENSE).
